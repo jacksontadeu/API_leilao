@@ -1,0 +1,6 @@
+@API_Leilao_HostAddress = http://localhost:5122
+
+GET {{API_Leilao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
